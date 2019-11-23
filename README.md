@@ -75,7 +75,7 @@ Ah no luck, I keep getting stopped at "Error: Config files not found or unreadab
 
 Seems the database is good as the installer will create a database and a user.  But for some reason, it balks at the config file... maybe I'll try to chmod 777 just to see if it can work... brb
 
-no that really did not work; next i forget what I did but I changed a whole directories permissions to nginx; I think ti was and I'll change it back as the Linuxize site has some great instructions....
+no that really did not work; next i forget what I did but I changed a whole directories permissions to nginx; I think it was and I'll change it back as the Linuxize site has some great instructions....
 
 https://linuxize.com/post/install-php-7-on-centos-7/
 
